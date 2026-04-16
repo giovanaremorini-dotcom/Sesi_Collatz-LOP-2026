@@ -13,3 +13,5 @@ Recebeu este nome em referência ao matemático alemão Lathar Collatz. A conjec
 - Clone o repositório
 - Abra o arquivo .c com DevC++
 - Pressione F11 para para compilar e executar
+
+![Fluxograma](Collatz.drawio.png)
